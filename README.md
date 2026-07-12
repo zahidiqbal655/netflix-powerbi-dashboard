@@ -7,7 +7,7 @@ data exploration and Power BI for interactive dashboard visualization.
 ## Dashboard Preview
 
 
-![Netflix Dashboard](Screenshot_2026-07-12_033124.png)
+![Netflix Dashboard](Screenshot%202026-07-12%20033124.png)
 
 
 
